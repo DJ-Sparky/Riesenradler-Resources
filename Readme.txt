@@ -1,2 +1,2 @@
-This repository is meant to contain useful presets, samples and bitwig projects from my "A Song In 10 Minutes" series on youtube.
+This repository is meant to contain useful presets, samples and bitwig projects from my "A Song In 10 Minutes" series on youtube (https://www.youtube.com/playlist?list=PLJl91qe9ZQKWRfccbpXDoRPUuIlLi-pul)
 They are free to use however you like but I do appreciate a reference!
